@@ -1,0 +1,43 @@
+﻿  opencv.cpp
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(244,35): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(244,28): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(259,43): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(259,36): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(266,33): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(266,30): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(273,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(274,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(275,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(276,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\ComputerScience\OpenCV\opencv\opencv\opencv.cpp(281,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码
+  2 of 470 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opencv.vcxproj -> E:\ComputerScience\OpenCV\opencv\x64\Release\opencv.exe
